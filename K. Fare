@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"28"<<endl;
+    cout<<"26"<<endl;
     return 0;
 }
